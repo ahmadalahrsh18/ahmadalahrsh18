@@ -3,13 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_alahrsh" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_alahrsh?logo=twitter&style=for-the-badge" alt="ahmad_alahrsh" /></a> </p>
 
-- 🔭 I’m currently working on [netflixe-clone](https://netfelix-clone.vercel.app/)
-
-- 🌱 I’m currently learning **framework,libarary**
-
-- 👯 I’m looking to collaborate on [facebook-clone](https://facebook-clone-one-amber.vercel.app/)
-
-- 💬 Ask me about **javascript,html5,css3,react.js**
 
 - 📫 How to reach me **ahmadalahrsh2@gmail.com**
 
