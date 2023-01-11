@@ -2,7 +2,9 @@
 <h3 align="center">A junior frontend developer from</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmad_alahrsh" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_alahrsh?logo=twitter&style=for-the-badge" alt="ahmad_alahrsh" /></a> </p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 📫 How to reach me **ahmadalahrsh2@gmail.com**
 
