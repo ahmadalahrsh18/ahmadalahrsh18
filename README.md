@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alahrsh</h1>
-<h3 align="center">A junior frontend developer from</h3>
+<h3 align="center">Full Stack Desktop, Web, Mobile, Artificial Intelligence Applications Developer</h3>
 
 
 <div align="center">
