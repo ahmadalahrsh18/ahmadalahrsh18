@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Alahrsh</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Alahrsh</h1>
 <h3 align="center">Full Stack Desktop, Web,  Artificial Intelligence Applications Developer</h3>
 
 
