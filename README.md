@@ -8,7 +8,6 @@
 
 -🌱 I’m currently learning **framework,libarary**
 
-- 💬 Ask me about **javascript,html5,css3,react.js**
 
 - 📫 How to reach me **ahmadalahrsh2@gmail.com**
 
