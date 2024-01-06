@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Alahrsh</h1>
-<h3 align="center">Full Stack Desktop, Web,  Artificial Intelligence Applications Developer</h3>
+<h3 align="center">Full Stack software Developer @ Upwork |2×AWS Certified Developer</h3>
 
 
 <div align="center">
